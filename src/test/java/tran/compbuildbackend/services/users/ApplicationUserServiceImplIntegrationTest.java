@@ -79,8 +79,7 @@ public class ApplicationUserServiceImplIntegrationTest {
     }
 
     /*
-     * The test below is testing if the service to be able to create the user but not send out the email so there is
-     * no token.
+     * The test below is testing if the service to be able to create the user and generate an email verification.
      */
     @Test
     public void testPersistUserWithSuccessfulEmail() {
