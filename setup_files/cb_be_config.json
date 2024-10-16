@@ -1,0 +1,12 @@
+{
+	"APP_URL": "http://localhost:3000",
+	"SAMPLE_PASSWORD": "testpw12",
+	"SENDER_EMAIL":"toddblog1@gmail.com",
+	"TEST_EMAIL":"apikey",
+	"TEST_JAVA_EMAIL_PASSWORD":"sendgridAPIKEYHERE",
+	"JWT_PRIV_KEY":"secureJWTPrivKeyHERE",
+	"CB_MYSQL_DB_URL":"jdbc:mysql://172.17.0.1:3306/cb_db?useSSL=false",
+	"CB_MYSQL_DB_USER_NAME":"root",
+	"CB_MYSQL_DB_PASSWORD":"rootPW",
+	"CB_MYSQL_DB_DRIVER_CLASS_NAME":"com.mysql.cj.jdbc.Driver"
+}
